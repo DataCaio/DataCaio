@@ -22,7 +22,7 @@
 
 ##
 
-<img align="right" alt="" height="190px" src="./image.png">
+<img align="right" alt="" height="190px" src="./cat.gif">
 
 <h3 align="left">Contact</h3>
 
