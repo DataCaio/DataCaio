@@ -39,5 +39,6 @@
   <a href="https://www.linkedin.com/in/caio-onofre-597b04262"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
-  ![Snake animation](https://github.com/DataCaio/DataCaio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DataCaio/DataCaio/blob/main/github-contribution-grid-snake.svg)
+
 </div>
