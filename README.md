@@ -1,22 +1,20 @@
-## Hello World! I'm Caio, a Data Science student at UFMG, and a lover of math and technology!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=blue&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## Hello World! I'm Caio Onofre and i love math and techonolgy!
+- 🔭 I’m currently majoring Data Science at Federal University of Minas Gerais(UFMG)
+- 🖱️ I’m currently working at iJunior as [...]
+- ⚡ Fun fact: I love ->MY<- cats!
+##
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=DataCaio&theme=prussian&show_icons=true"/>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DataCaio&theme=transparent&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DataCaio&layout=compact&langs_count=8&card_width=320&theme=prussian" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DataCaio&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 </div> 
