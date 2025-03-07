@@ -13,13 +13,15 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DataCaio&theme=prussian&show_icons=true"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=DataCaio&theme=prussian&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DataCaio&layout=compact&langs_count=8&card_width=320&theme=prussian" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DataCaio&layout=compact&langs_count=8&card_width=320&theme=prussian" />
 </a>
 
-</div>
+</div> 
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -36,7 +38,6 @@
   <a href = "mailto:ccaiohenriquec@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-onofre-597b04262"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+##
   ![Snake animation](https://github.com/DataCaio/DataCaio/blob/output/github-contribution-grid-snake.svg)
-  
-  
 </div>
