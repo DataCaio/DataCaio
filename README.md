@@ -7,7 +7,7 @@
 ## Hello World! I'm Caio Onofre and i love math and techonolgy!
 - 🔭 I’m currently majoring Data Science at Federal University of Minas Gerais(UFMG)
 - 🖱️ I’m currently working at iJunior as [...]
-- ⚡ Fun fact: I love ->MY<- cats!
+- ⚡ Fun fact: I love ->MY<- cats and russian literature!
 ##
 
 <div style="text-align: center;" align="center">
