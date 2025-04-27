@@ -9,17 +9,6 @@
 - 🖱️ I’m currently working at iJunior as [...]
 - ⚡ Fun fact: I love ->MY<- cats and russian literature!
 ##
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataCaio&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&border_radius=3&theme=transparent" alt="GitHub stats">
-
-  <a href="https://github.com/DataCaio/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DataCaio&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&&border_radius=3&count_private=true&theme=transparent" alt="Most Used Languages">
-  </a>
-</div>
-
-##
 
 <img align="right" alt="" height="190px" src="./cat.gif">
 
