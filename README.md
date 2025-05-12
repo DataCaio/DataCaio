@@ -6,7 +6,7 @@
 
 ## Hello World! I'm Caio Onofre and i love math and techonolgy!
 - 🔭 I’m currently majoring Data Science at Federal University of Minas Gerais(UFMG)
-- 🖱️ I’m currently working at iJunior as [...]
+- 🖱️ I am currently working as an Undergraduate Research Assistant at the Computer Vision and Robotics Laboratory(Verlab)."
 - ⚡ I love cats and russian literature!
 ##
 
