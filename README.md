@@ -6,7 +6,7 @@
 
 ## Hello!
 - 🔭 I’m currently majoring Data Science at Federal University of Minas Gerais(UFMG)
-- 🖱️ I am currently working as an Undergraduate Research Assistant at the Computer Vision and Robotics Laboratory(Verlab)."
+- 🖱️ I am currently working as an Undergraduate Research Assistant at the Computer Vision and Robotics Laboratory (Verlab- UFMG)."
 - ⚡ I love cats and russian literature!
 ##
 
