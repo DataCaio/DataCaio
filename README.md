@@ -5,9 +5,9 @@
 </div>
 
 ## Hello!
-- 🔭 I’m currently majoring Data Science at Federal University of Minas Gerais(UFMG)
+- 🔭 I’m currently majoring Computer Science at Federal University of Minas Gerais(UFMG)
 - 🖱️ I am currently working as an Undergraduate Research Assistant at the Computer Vision and Robotics Laboratory (Verlab- UFMG)."
-- ⚡ I love cats and russian literature!
+
 ##
 
 <img align="right" alt="" height="190px" src="./cat.gif">
